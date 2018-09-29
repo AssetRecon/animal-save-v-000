@@ -10,6 +10,6 @@ html {
 
 /* Write your solution here */
 @auto only screen and (min-width: 1160px) {
-  left: 20%;
+  right: 100px;
 
 }
