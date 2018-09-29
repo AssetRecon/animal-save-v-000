@@ -9,7 +9,7 @@ html {
 }
 
 /* Write your solution here */
-@auto only screen and (min-width: 1160px) {
+@auto only screen and (min-width: 1196px) {
   left: 800px;
 
 }
